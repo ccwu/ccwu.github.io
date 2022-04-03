@@ -3,7 +3,6 @@ layout: post
 title: "Coffees that Make Me Happy"
 date: 2022-04-02
 ---
-
 I have become addicted to trying out new coffee varieties when I travel, and I am wont to pick up a bag of coffee when I visit a new place and bring it home to try later. This is a list of all the coffees that I have tried and in order of how much they make me happy. It's not a strict order since it's hard to compare different roasts and varieties directly but I'll tell why it is higher in the list than others. Note I prefer my coffee without cream and sugar, and my prepared method of brewing is Aeropress Go at home and on the road. I do agree that a well done pour over is delightful, but the effort and resources required put it a notch below the simplicity of the Aeropress. French Press gives a different feel, but with the concerns about dipterines, I've held off. I'll write a post on preferred coffee brewing methods someday. 
 
 ## Groundwork Angel City Blend
