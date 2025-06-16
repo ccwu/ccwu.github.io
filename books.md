@@ -12,4 +12,6 @@ The following are books that I have read, or am reading, or have abandoned. I'll
 - *Children of Time* - Adrian Tchaikovsky: (Reading - so far impressed by the imaginitive world)
 - ***The Eighth Day of Creation*** - Horace Freeland Judson (re-reading): This book is a must read for anyone pursuing the sciences, not just the biological ones. It focuses on the process of discovery not just the results. The scientific endeavor is one of perseverance not just brilliance.  
 
-Feel free to reach out to me via my LinkedIn Profile and set up a 30 minute session to chat over your issue. If you find the session valuable you can pay me what you think. If not, no worries. 
+## 2024
+
+## undated
