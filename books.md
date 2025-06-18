@@ -14,4 +14,9 @@ The following are books that I have read, or am reading, or have abandoned. I'll
 
 ## 2024
 
-## undated
+- *High Output Management* - Andrew Grove: An insightful read about how to manage teams and operations. May not be applicable under the current culture but still a point of view that is useful to have in your toolbox.
+
+## Undated Books
+
+- *The Plague* - Albert Camus (!) - Simply one of the most powerful books I have ever read. Communicating what it means to be a human and to connect. Life is not about being a saint, but about understanding the condition we all share. 
+
