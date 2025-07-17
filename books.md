@@ -10,6 +10,7 @@ The following are books that I have read, or am reading, or have abandoned. I'll
 
 - *Infinite Powers* - Steven Strogatz: This is a fantastic introduction to Calculus (or the application of the infinite) for the lay reader. I wish I would have read this book when I was learning Calculus to get a landscape before going in depth.
 - *Children of Time* - Adrian Tchaikovsky: (Reading - so far impressed by the imaginitive world)
+- *Yellowface* - RF Kuang: This was an entertaining novel that is appropriate (no pun intended) of our time exploring who gets to tell whose story. It also touches upon the joys of writing when it one returns to an intrinsic motivation vs an extrinsic one. The plot takes discrete jumps that don't always seem merited, but we must do what we must to move the story along to its conclusion. 
 - ***The Eighth Day of Creation*** - Horace Freeland Judson (re-reading): This book is a must read for anyone pursuing the sciences, not just the biological ones. It focuses on the process of discovery not just the results. The scientific endeavor is one of perseverance not just brilliance.  
 
 ## 2024
