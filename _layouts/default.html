@@ -6,23 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-    <title>Charles Wu Website</title>
-    <meta name="generator" content="Jekyll v3.9.0" />
-    <meta property="og:title" content="Privacy Policies" />
-    <meta property="og:locale" content="en_US" />
-    <meta name="description" content="The public home for Charles Wu" />
-    <meta property="og:description" content="The public home for Charles Wu" />
-    <link rel="canonical" href="https://wubashi.com/" />
-    <meta property="og:url" content="https://wubashi.com/" />
-    <meta property="og:site_name" content="Charles Wu" />
-    <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary" />
-    <meta property="twitter:title" content="Privacy Policies" />
-    <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"The public home for Charles Wu","headline":"Privacy Policies","name":"Charles Wu","url":"https://wubashi.com/"}</script>
-<!-- End Jekyll SEO tag -->
-
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -32,9 +15,13 @@
   <body>
     <div class="wrapper">
       <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
             <ul>
                 <li><a href="/">Home</a></li>
