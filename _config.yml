@@ -1,4 +1,7 @@
-name: Charles Wu
+name: Charles Wu's Homepage
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+title: Charles Wu's Blog
+logo: /images/wubashi.gif
+description: A clean well lighted place to find out about me. Nothing fancy.
 theme: jekyll-theme-minimal
