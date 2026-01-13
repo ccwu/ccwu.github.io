@@ -6,6 +6,11 @@ title: My Reading List
 
 The following are books that I have read, or am reading, or have abandoned. I'll provide a "tweet" level summary as well in many cases. **Bold** titles indicate books that are particularly impactful.
 
+## 2026
+
+- *The Brief Wondrous Life of Oscar Wao* - Junot Díaz: This book has taken more a few times to get into (my last attempt really was that the book was started in 2025, but I finished it in 2026), but once I got into the rhythm of the book I can see why it received all the accolades that it did. Part history lesson, part cross cultural exploration (not just ethnic cultures but nerd-culture as well). I'd like to re-read the book using the [annotated guide](http://www.annotated-oscar-wao.com/) that was put together by someone name Kim. The heart knows what the heart knows. 
+
+
 ## 2025
 
 - *Infinite Powers* - Steven Strogatz: This is a fantastic introduction to Calculus (or the application of the infinite) for the lay reader. I wish I would have read this book when I was learning Calculus to get a landscape before going in depth.
