@@ -10,8 +10,14 @@ The following are books that I have read, or am reading, or have abandoned. I'll
 
 - *The Brief Wondrous Life of Oscar Wao* - Junot Díaz: This book has taken more a few times to get into (my last attempt really was that the book was started in 2025, but I finished it in 2026), but once I got into the rhythm of the book I can see why it received all the accolades that it did. Part history lesson, part cross cultural exploration (not just ethnic cultures but nerd-culture as well). I'd like to re-read the book using the [annotated guide](http://www.annotated-oscar-wao.com/) that was put together by someone name Kim. The heart knows what the heart knows. 
 
+- *id Meier's Memoir!: A Life in Computer Games* - Sid Meier - A breezy tour of the legendary game designer Sid Meier. Very much a conversational style memoir, there are a few gems of insight for other game developers. The net net is a degree of talent crossed with a love of a domain can lead to some great things. It's that willingness to explore and understand through failure and dead ends, combined with a talent to move post those blockers is what makes Sid Meier, Sid Meier. They say biography is not actionable for others and that seems true here, but it is a quick read. Much of the content is an expansion of his GDC talks so that may be more time efficient if you wants the broad strokes. 
+
 
 ## 2025
+
+
+
+
 
 - *Infinite Powers* - Steven Strogatz: This is a fantastic introduction to Calculus (or the application of the infinite) for the lay reader. I wish I would have read this book when I was learning Calculus to get a landscape before going in depth.
 - *Children of Time* - Adrian Tchaikovsky: (Reading - so far impressed by the imaginitive world)
